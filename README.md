@@ -1,3 +1,3 @@
 # eCommerce demo project
-> Synthesize web knowledge project
+> Synthesize Backend Nodejs - ExpressJS knowledge project
 
